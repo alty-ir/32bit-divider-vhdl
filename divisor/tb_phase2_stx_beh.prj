@@ -1,0 +1,2 @@
+vhdl isim_temp "division.vhd"
+vhdl isim_temp "tb_phase2.vhd"

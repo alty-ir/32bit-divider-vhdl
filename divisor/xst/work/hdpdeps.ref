@@ -1,0 +1,7 @@
+V3 3
+FL D:/CA_LAB/5473/session7/divisor/division.vhd 2018/11/27.10:19:33 P.20131013
+EN work/division 1543301671 FL D:/CA_LAB/5473/session7/divisor/division.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/division/Behavioral 1543301672 \
+      FL D:/CA_LAB/5473/session7/divisor/division.vhd EN work/division 1543301671
